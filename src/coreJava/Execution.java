@@ -18,8 +18,8 @@ public static void main(String [] args) {
      
      //Math
      Math math = new Math();
-    int newValue =  math.calculator1(7,8);
-    System.out.println(newValue);
+     int newValue =  math.calculator1(7,8);
+     System.out.println(newValue);
      
      int newValue2= Math.calculator2(10, 5);
      System.out.println(newValue2);
@@ -35,7 +35,7 @@ public static void main(String [] args) {
      
      
 }
-public static void method () {
+    public static void method () {
 	System.out.println(Computer.keys);
 }
 }
