@@ -12,5 +12,7 @@ public abstract class AbstractCar {
         public void autoHeadLight() {
         	
         }
+	public AbstractCar() { //this means that an abstractor can have a constructor whereas 
+		// a interface can not have a constructor
 	
-}
+}}

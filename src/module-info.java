@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author daljeet
- *
- */
-module WeekDaysJava {
-}
